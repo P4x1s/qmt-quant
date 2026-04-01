@@ -2,6 +2,8 @@
 
 一个专业的 Python 量化交易系统，提供完整的回测和实盘交易功能。系统采用模块化设计，支持多种专业量化策略，配备友好的 Streamlit Web 界面。
 
+<img alt="image.png" data-hpc="true" src="https://github.com/P4x1s/qmt-quant/blob/main/image.png?raw=true" style="max-width: 100%;">
+
 ## 核心特性
 
 - **13 种专业策略**：从经典指标到机构级量化策略
